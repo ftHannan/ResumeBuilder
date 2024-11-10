@@ -33,7 +33,7 @@ const Footer = () => {
               target={"_blank"}
               color={"blue.600"}
             >
-              &nbsp;hitechiez.
+              &nbsp;hitechiez
             </Text>
             & Designed By
           </Text>
