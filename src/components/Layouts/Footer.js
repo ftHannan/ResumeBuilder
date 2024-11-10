@@ -26,7 +26,7 @@ const Footer = () => {
       >
         <Stack direction={{ base: "column", md: "row" }} fontWeight={"medium"}>
           <Text>
-            &copy; 2024 & All Right Reserved by
+            &copy; & All Right Reserved 2024 by
             <Text
               as={"a"}
               href={"https://pk.linkedin.com/company/workwith-hitechiez"}
