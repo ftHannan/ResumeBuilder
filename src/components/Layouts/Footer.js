@@ -35,7 +35,7 @@ const Footer = () => {
             >
               &nbsp;hitechiez
             </Text>
-            & Designed By
+            &nbsp;& Designed By
           </Text>
           <Text
             as={"a"}
