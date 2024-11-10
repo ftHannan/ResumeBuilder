@@ -25,7 +25,18 @@ const Footer = () => {
         align={{ base: "center", md: "center" }}
       >
         <Stack direction={{ base: "column", md: "row" }} fontWeight={"medium"}>
-          <Text>&copy; 2024 Resumegen. Designed By</Text>
+          <Text>
+            &copy; 2024 & All Right Reserved by
+            <Text
+              as={"a"}
+              href={"https://pk.linkedin.com/company/workwith-hitechiez"}
+              target={"_blank"}
+              color={"blue.600"}
+            >
+              hitechiez.
+            </Text>
+            & Designed By
+          </Text>
           <Text
             as={"a"}
             href={"https://pk.linkedin.com/in/iabdul-hannan"}
